@@ -2,38 +2,53 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+TODO Rosen's favorite Game 
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+TODO A game where the snake will be dodging objects. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+TODO Our software will be an interactive game where a snake 
+moves freely across the screen and dodges any stuff. 
+The player's goal is to control the snake to dodge any obstacle, if it does it hit an obstacle or the wall, the game will end.
+This game is mainly about survival and using the player's reflexes. 
+Some key features that we will be using are, free flowing snake movement, collision detection, keyboard input, score/time tracker, and restart option.   
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+TODO, N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
-
-TODO, if applicable
+ Zarinah Williams-Muhammed zarinah.williams-muhammad@temple.edu Tomoyo Kanno
+Cairee Cooper cairee.cooper@temple.edu Nathan Cherny 
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+TODO A working game window with a snake that moves smoothly in real time. 
+Keyboard controls to change the snake's direction. 
+Obstacles that appear on the screen for the snake to dodge. 
+Collision detection that ends the game if the snake hits an obstacle. 
+A restart/reset function after the game is over. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+TODO A pause and resume feature. 
+Adding high qaulity graphics.
+Background music/sound effects. 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+TODO Adding a two-player mode
+Adding different difficulties 
+Adding the game to multiple platforms. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+TODO Already we know how to use variables, loops, conditiotnals, functions, list, tutle graphics, and simple file handing modules. To complete this game, we would need new skills such as using Pygame, 
+designing a game loop, putting in collision detection, creating a score counter or timer, and managing objects on screens. Some topics we would 
+need to research on top help for this are, how to install and use Pygame, how to move a shape or image smoothly across a screen, how to detect when 2 objects touch, how to track/time or score in python, 
+how to add a restart button, and for the best outcome how to add sound effects or background music. 
